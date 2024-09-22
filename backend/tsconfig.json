@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+      "typeRoots": ["./node_modules/@types", "./src/types"],
+      "esModuleInterop": true,
+      "module": "commonjs",  // Ensure this is set for Node.js
+    }
+  }
+  
