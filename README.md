@@ -1,2 +1,2 @@
 # BuzzHub-ChatApp
-ChatApp with GraphQL and WebSockets
+RealTime ChatApp with GraphQL and WebSockets
