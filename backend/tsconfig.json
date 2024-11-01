@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "typeRoots": ["./node_modules/@types", "./src/types"],
+    "esModuleInterop": true,
+    "module": "commonjs",
+    "target": "es2015",
+    "lib": ["dom", "es2015", "es2016", "es2017"],
+    "skipLibCheck": true, 
+    "strict": false, 
+    "outDir": "./dist", 
+    "noImplicitAny": false, 
+    
+  },
+  "include": ["src/**/*"] 
+}
